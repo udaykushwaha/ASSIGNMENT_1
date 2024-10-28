@@ -1,0 +1,44 @@
+body {
+  align-items: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+header {
+  font-size: 200%;
+  text-decoration-color: black;
+  text-align: center;
+  font-weight: bold;
+}
+table {
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+.t-table {
+  width: 800px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+}
+a{
+    text-decoration: none;
+}
+
+.tbppp{
+    background-color: aqua;
+}
+th:hover, td:hover{
+    background-color: cornsilk;
+}
